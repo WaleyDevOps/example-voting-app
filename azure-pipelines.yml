@@ -18,7 +18,7 @@ stages:
   - job: Build
     displayName: Build
     pool:
-      name: ubuntu-2
+      name: myagent
     steps:
     - task: Docker@2
       displayName: Build an image
