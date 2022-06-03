@@ -18,7 +18,7 @@ stages:
   - job: Build
     displayName: Build
     pool:
-      name: mainagent
+      name: default
     steps:
      - task: Docker@2
        inputs:
