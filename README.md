@@ -1,6 +1,6 @@
 Example Voting App
 =========
-testing
+testing branch policy
 Getting started
 ---------------
 
